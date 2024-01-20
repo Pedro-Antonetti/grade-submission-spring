@@ -1,4 +1,4 @@
-package com.ltp.gradesubmission;
+package com.ltp.gradesubmission.pojo;
 
 import java.util.UUID;
 

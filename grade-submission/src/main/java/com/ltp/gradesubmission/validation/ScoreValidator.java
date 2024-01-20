@@ -1,4 +1,4 @@
-package com.ltp.gradesubmission;
+package com.ltp.gradesubmission.validation;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.ltp.gradesubmission;
+package com.ltp.gradesubmission.validation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
